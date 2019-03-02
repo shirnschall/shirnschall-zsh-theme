@@ -12,5 +12,5 @@ download and move ```hirnschall.zsh-theme``` to ```~/.oh-my-zsh/themes/hirnschal
 wget -O ~/.oh-my-zsh/themes/hirnschall.zsh-theme https://raw.githubusercontent.com/hirnschallsebastian/zsh-theme/master/hirnschall.zsh-theme 
  ```
  
- after downloading set ```ZSH_THEME``` in ```~/.zshrc``` to use the new theme:
+ after downloading set ```ZSH_THEME``` in ```~/.zshrc``` to use the new theme:           
  ```ZSH_THEME="hirnschall"```
