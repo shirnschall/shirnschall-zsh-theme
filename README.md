@@ -1,10 +1,7 @@
 # zsh-theme
 Simple zsh-theme to display user:host. 
-
-![Homedirectory](https://dl.dropboxusercontent.com/s/ddo5q3lcwqpxyxl/home.png?dl=0)
-
-![Git](https://dl.dropboxusercontent.com/s/tzse0eelp6hm2su/github.png?dl=0)
-
+              
+<img src="https://dl.dropboxusercontent.com/s/ddo5q3lcwqpxyxl/home.png?dl=0" height="75" /> <img src="https://dl.dropboxusercontent.com/s/tzse0eelp6hm2su/github.png?dl=0" height="75" />
 
 ### Install
 
