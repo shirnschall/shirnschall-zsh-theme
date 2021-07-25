@@ -14,3 +14,9 @@ wget -O ~/.oh-my-zsh/themes/hirnschall.zsh-theme https://raw.githubusercontent.c
  
  after downloading set ```ZSH_THEME``` in ```~/.zshrc``` to use the new theme:           
  ```ZSH_THEME="hirnschall"```
+
+
+## Other
+In the screenshots above I am using 
+* [iTerm2 Material Design color scheme](https://github.com/MartinSeeler/iterm2-material-design.git)
+* [Powerline fonts](https://github.com/powerline/fonts.git)
