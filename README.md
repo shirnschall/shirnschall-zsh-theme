@@ -5,11 +5,11 @@ The default robbyrussell theme with added user and host information
             
 ## Install
 
-download and move ```hirnschall.zsh-theme``` to ```~/.oh-my-zsh/themes/hirnschall.zsh-theme```
+download and move ```shirnschall.zsh-theme``` to ```~/.oh-my-zsh/themes/shirnschall.zsh-theme```
 
 ###### via wget:
 ```
-wget -O ~/.oh-my-zsh/themes/hirnschall.zsh-theme https://raw.githubusercontent.com/hirnschallsebastian/zsh-theme/master/hirnschall.zsh-theme 
+wget -O ~/.oh-my-zsh/themes/shirnschall.zsh-theme https://raw.githubusercontent.com/hirnschallsebastian/zsh-theme/master/shirnschall.zsh-theme 
  ```
  
  after downloading set ```ZSH_THEME``` in ```~/.zshrc``` to use the new theme:           
