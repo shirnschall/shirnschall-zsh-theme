@@ -13,7 +13,7 @@ wget -O ~/.oh-my-zsh/themes/shirnschall.zsh-theme https://raw.githubusercontent.
  ```
  
  after downloading set ```ZSH_THEME``` in ```~/.zshrc``` to use the new theme:           
- ```ZSH_THEME="hirnschall"```
+ ```ZSH_THEME="shirnschall"```
 
 
 ## Other
